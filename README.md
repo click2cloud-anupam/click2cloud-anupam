@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @click2cloud-anupam
+- 👋 Hi, I’m Anupam
 
 
 <!---
